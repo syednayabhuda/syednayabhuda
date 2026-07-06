@@ -27,15 +27,20 @@ Here are some ideas to get you started:
      This is the list of my skills and tools
 -->
 ### My skills:
-**Languages:**[![Languages](https://skillicons.dev/icons?i=java,py,c,js,html,css)](https://skillicons.dev)
+Languages:
+    [![Languages](https://skillicons.dev/icons?i=java,py,c,js,html,css)](https://skillicons.dev)
 
-**Frameworks:**[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,react,bootstrap)](https://skillicons.dev)
+Frameworks:
+    [![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,react,bootstrap)](https://skillicons.dev)
 
-**Databases:**[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+Databases:
+    [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
-**Build / DevOps / Tools:**[![Build / DevOps / Tools](https://skillicons.dev/icons?i=maven,gradle,git,docker,jenkins,aws,postman)](https://skillicons.dev)
+Build / DevOps / Tools:
+    [![Build / DevOps / Tools](https://skillicons.dev/icons?i=maven,gradle,git,docker,jenkins,aws,postman)](https://skillicons.dev)
 
-**Chatbot / Automation:**[![Chatbot / Automation:"](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+Chatbot / Automation:
+    [![Chatbot / Automation:"](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
