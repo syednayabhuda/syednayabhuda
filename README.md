@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code&pause=1000&color=1EFF4D80&width=435&lines=%3E%3E+Hello%2C+it's+Syed+Nayab+Huda;%3E%3E+Software+Engineer" alt="Syed Nayab Huda, Software Engineer" /></a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Code&duration=2499&pause=1000&color=1EFF4D80&width=435&lines=%3E%3E+Hello%2C+it's+Syed+Nayab+Huda;%3E%3E+Software+Engineer" alt="Typing SVG" />
+</a>
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -24,12 +26,16 @@ Here are some ideas to get you started:
 <!--
      This is the list of my skills and tools
 -->
-### Main skills
-[![Languages](https://skillicons.dev/icons?i=java,py,c,js,html,css)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,react,bootstrap)](https://skillicons.dev)
-[![Databases](https://skillicons.dev/icons?i=mysql,psotgres,mongodb)](https://skillicons.dev)
-[![Build / DevOps / Tools](https://skillicons.dev/icons?i=maven,gradle,git,docker,jenkins,aws,postman)](https://skillicons.dev)
-[![Chatbot / Automation](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+### My skills
+[[Languages:](https://skillicons.dev/icons?i=java,py,c,js,html,css)](https://skillicons.dev)
+
+[[Frameworks:](https://skillicons.dev/icons?i=spring,hibernate,react,bootstrap)](https://skillicons.dev)
+
+[[Databases:](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+[[Build / DevOps / Tools:](https://skillicons.dev/icons?i=maven,gradle,git,docker,jenkins,aws,postman)](https://skillicons.dev)
+
+[[Chatbot / Automation:"](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
